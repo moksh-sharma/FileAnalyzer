@@ -5,3 +5,4 @@ numpy==1.26.2
 matplotlib==3.8.2
 seaborn==0.13.0
 werkzeug==3.0.1
+gunicorn==21.2.0
